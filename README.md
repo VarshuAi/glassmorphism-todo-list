@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Frosted glass-styled interactive schedule and task planner.
+  name: glassmorphism-todo-list version: 1.0 type: Repository author: VarshuAi description: >   Frosted glass-styled interactive schedule and task planner. primary_tech: CSS
 primary_tech: CSS
 ```
 
